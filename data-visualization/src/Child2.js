@@ -10,7 +10,6 @@ function Child2(props) {
 	const [selectedValue, setSelectedValue] = useState('A');
 
 	useEffect(() => {
-		// console.log(scatterplotData);
         if (data.length > 0) {
             setScatterplotData(
                 data.filter((item) => {
