@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/data-visualization/static/css/main.9c892734.css",
+    "main.js": "/data-visualization/static/js/main.80db6222.js",
+    "static/media/SampleDataset.csv": "/data-visualization/static/media/SampleDataset.1a13c1758e940941af06.csv",
+    "index.html": "/data-visualization/index.html",
+    "main.9c892734.css.map": "/data-visualization/static/css/main.9c892734.css.map",
+    "main.80db6222.js.map": "/data-visualization/static/js/main.80db6222.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c892734.css",
+    "static/js/main.80db6222.js"
+  ]
+}
